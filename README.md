@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30) Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AYYEESHA KHANNA 
+![header](https://capsule-render.vercel.app/api?text=Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AYYEESHA KHANNA &color=gradient&customColorList=0,2,2,5,30) 
+
+
+
+
 =======================================================================================================================================
 
 A passionate Software Engineer
