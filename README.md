@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30,4,6,24,11&height=100%) 
 
 
 
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/AK-2406?logo=github&style=for-the-b
 <a href="https://github.com/AK-2406" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-2406&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **AK-2406/AK-2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
