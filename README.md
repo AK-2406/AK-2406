@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30,4,6,24,11&height=100%) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30,4,6,24,11&height=100%&width=45%) 
 
 
 
