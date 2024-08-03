@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30,4,6,24,11&height=100%&width=45%) 
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30,4,6,24,11&height=100%) 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AYYEESHA KHANNA 
 =======================================================================================================================================
