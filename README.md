@@ -8,6 +8,9 @@ A passionate Software Engineer
 💬 Ask me about my interests.<br>
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [ayyeeshakhanna@gmail.com](mailto:ayyeeshakhanna@gmail.com)
+* <img src="https://komarev.com/ghpvc/?username=aps17062&label=Profile%20views&color=0e75b6&style=flat" alt="aps17062" /> 
+
+
 
 <!-- <a href="https://www.github.com/AK-2406" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AK-2406?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
