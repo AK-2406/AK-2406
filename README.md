@@ -50,8 +50,7 @@ src="https://img.shields.io/github/followers/AK-2406?logo=github&style=for-the-b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Watch Snake eating my GitHub contributions:
-![snake gif](https://github.com/AK-2406/AK-2406/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/AK-2406/AK-2406/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **AK-2406/AK-2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
